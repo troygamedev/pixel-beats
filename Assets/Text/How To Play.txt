@@ -1,0 +1,5 @@
+Click on the boxes to the music as the rings shrink to the center.
+
+Use Mouse Button 0 (Left Click) or X or Z to strike the notes.
+
+X or Z can be binded to other keys under the settings menu.
